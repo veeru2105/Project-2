@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 17:08:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b90fab3b2f353510dcb6877cf699b6c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Navigator</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Project2" source="x_1150335_project2">799e877b2fb13510dcb6877cf699b630</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project2">799e877b2fb13510dcb6877cf699b630</sys_scope>
+        <sys_update_name>sys_app_application_b90fab3b2f353510dcb6877cf699b6c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 17:08:55</sys_updated_on>
+        <title>Navigator</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
